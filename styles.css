@@ -511,6 +511,10 @@ body.dark .hero {
   border-color: #f5c2c7;
 }
 
+.hidden {
+  display: none !important;
+}
+
 .contact-card button[type="submit"]:disabled {
   cursor: not-allowed;
   opacity: 0.65;
