@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 # Cameroun-Education-Site-App
-application web pour élèves de Terminales et aussi pour etudiants de 1ère années mal orientés par leurs filiaires mon site web leurs permettra de mieux s'orienter pour leurs debut d'études académiques ou la suite de votre études académiques
+application web pour élèves de Terminales et aussi pour étudiants de 1ère années mal orientés par leurs filiaires mon site web leurs permettra de mieux s'orienter pour leurs début d'études académiques ou la suite de leurs études académiques
 =======
 # CamerEdu — Site éducatif pour les terminales et les étudiants mal orientés au Cameroun
 
